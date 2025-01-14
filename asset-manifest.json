@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/cyborgmachine/Fast-Match-React/static/css/main.0fcedab3.css",
-    "main.js": "/cyborgmachine/Fast-Match-React/static/js/main.b7380bfb.js",
-    "index.html": "/cyborgmachine/Fast-Match-React/index.html",
-    "main.0fcedab3.css.map": "/cyborgmachine/Fast-Match-React/static/css/main.0fcedab3.css.map",
-    "main.b7380bfb.js.map": "/cyborgmachine/Fast-Match-React/static/js/main.b7380bfb.js.map"
+    "main.css": "/Fast-Match-React/static/css/main.0fcedab3.css",
+    "main.js": "/Fast-Match-React/static/js/main.b7380bfb.js",
+    "index.html": "/Fast-Match-React/index.html",
+    "main.0fcedab3.css.map": "/Fast-Match-React/static/css/main.0fcedab3.css.map",
+    "main.b7380bfb.js.map": "/Fast-Match-React/static/js/main.b7380bfb.js.map"
   },
   "entrypoints": [
     "static/css/main.0fcedab3.css",
