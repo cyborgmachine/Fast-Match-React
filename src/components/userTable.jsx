@@ -91,7 +91,7 @@ function UserTable() {
             <th>Name</th>
             <th>Qualities</th>
             <th>Proffesion</th>
-            <th>Met (times)</th>
+            <th>Meeting, count</th>
             <th>Score</th>
           </tr>
         </thead>
